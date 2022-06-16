@@ -37,7 +37,7 @@
                 animation: glitch2 2.5s infinite;
                 }
                 h1:nth-child(3) {
-                color: #f16f6f;
+                color: #304d59;
                 animation: glitch3 2.5s infinite;
                 }
                 /*Keyframes*/
