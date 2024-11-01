@@ -19,7 +19,7 @@
                 }
                 h1 {
                 text-align: center;
-                color: #fff;
+                color: #212121;
                 font-size: 5em;
                 letter-spacing: 8px;
                 font-family: "Lucida Console", Monaco, monospace;	
